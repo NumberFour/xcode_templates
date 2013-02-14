@@ -8,6 +8,8 @@
 
 #import <Foundation/Foundation.h>
 
+#import <N4iOSUIClasses/___VARIABLE_cocoaTouchSubclass___.h>
+
 @interface ___FILEBASENAMEASIDENTIFIER___ : ___VARIABLE_cocoaTouchSubclass___
 
 @end

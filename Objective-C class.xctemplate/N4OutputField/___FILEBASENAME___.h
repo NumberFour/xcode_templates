@@ -8,8 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
-#import <N4iOSUIClasses/N4FormViewController.h>
+#import <N4iOSUIClasses/N4OutputField.h>
 
-@interface ___FILEBASENAMEASIDENTIFIER___ : N4FormViewController
-
+@interface ___FILEBASENAMEASIDENTIFIER___ : N4OutputField
+@property (nonatomic, strong) <#ClassName#> *objectValue;
 @end

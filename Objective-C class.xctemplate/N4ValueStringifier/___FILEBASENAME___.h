@@ -6,10 +6,9 @@
 //  Copyright (c) ___YEAR___ NumberFour AG. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
 
-#import <N4iOSUIClasses/N4FormViewController.h>
+#import <N4iOSUIClasses/N4ValueStringifier.h>
 
-@interface ___FILEBASENAMEASIDENTIFIER___ : N4FormViewController
-
+@interface ___FILEBASENAMEASIDENTIFIER___ : N4ValueStringifier
 @end

@@ -54,6 +54,12 @@
 				<string>ViewController</string>
 				<key>N4FormController</key>
 				<string>FormViewController</string>
+        <key>N4ValueStringifier</key>
+        <string>Stringifier</string>
+        <key>N4OutputField</key>
+        <string>OutputField</string>
+        <key>N4RowLayoutOutputCell</key>
+        <string>OutputCell</string>
 			</dict>
 			<key>Type</key>
 			<string>class</string>
@@ -61,6 +67,9 @@
 			<array>
 				<string>NSObject</string>
 				<string>N4FormViewController</string>
+        <string>N4ValueStringifier</string>
+        <string>N4OutputField</string>
+        <string>N4RowLayoutOutputCell</string>
 			</array>
 		</dict>
 	</array>
